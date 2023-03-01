@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sandstone991 ----> Ahmed Azzam I like to call myself Zam
-- 👀 I’m interested in Computer Science in general and game dev in particular
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on nothing right now
+- 👋 Hi, I’m @sandstone991 ----> Ahmed Azzam, call me Zam for short 
 - 📫 How to reach me
      Linkden ---> https://www.linkedin.com/in/ahmed-azzam-459240207/
 
